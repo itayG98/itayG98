@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @itayG98
-- 👀 I’m interested in learning Fullstack Web Development . Currenlty in the Front End section.
-- 🌱 I’m currently learning HTML CSS Javascript
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in learning Fullstack Web Development using C# and .NET .
+- 🌱 I’m currently learning HTML CSS Javascript and C# at Sela College for Devlopers .
 - 📫 How to reach me ... itai.g98@gmail.com
