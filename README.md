@@ -1,6 +1,5 @@
- Hi, I’m @itayG98 or simply Itay.
-I’m interested in learning Fullstack Web app Development using C# and .NET .
-I’m currently learning C# .Net and UWP apps developments at Sela College for Devlopers .
-
+Hello I am a student at Sela college of Software developing in a special program for released combat fighters form the IDF.
+Learning development methodologis in C# and  .NET framework .
+I am highly motivated to learn and explore new fields and looking forward to learn Computer science and cognitive science in the the near future.
 
 - 📫 How to reach me ... itai.g98@gmail.com
