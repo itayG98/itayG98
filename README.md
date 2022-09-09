@@ -9,5 +9,8 @@ You can also messege me by mail : <a href="itai.g98@gmail.com">itai.g98@gmail.co
 
 <div align="center">
 <p>Click to Get to my portfolio page</p>
-<img href="https://itayg98.github.io/Itay-Getahun-Portfolio/" src="https://user-images.githubusercontent.com/91791115/189167955-131f4728-7142-43ba-930e-f2b652c032dd.jpg"/>
+<a href="https://itayg98.github.io/Itay-Getahun-Portfolio/">
+         <img alt="Prtfolio" src="https://user-images.githubusercontent.com/91791115/189167955-131f4728-7142-43ba-930e-f2b652c032dd.jpg"
+         >
+      </a>
 </div>
