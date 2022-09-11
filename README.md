@@ -3,6 +3,7 @@ My name is Itay and i'm a Student at Sela college of Software developing in a re
 Currently learning development methodologies and software architecture in C# ,  and .NET framework
 ### Familiar with :
 - C#
+- OOP and SOLID principels
 - .NET framework
 - WPF and UWP MVVM
 - Asp.Net MVC
