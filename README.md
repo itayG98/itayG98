@@ -1,6 +1,6 @@
 ## Who am I?
 My name is Itay and i'm a Student at Sela college of Software developing in a released IDF combat fighters course . 🧑🏾‍🏫📖
-Currently learning development methodologies in C# ,  and .NET framework
+Currently learning development methodologies and software architecture in C# ,  and .NET framework
 ### Familiar with :
 - C#
 - .NET framework
