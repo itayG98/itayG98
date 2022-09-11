@@ -1,6 +1,14 @@
 ## Who am I?
 My name is Itay and i'm a Student at Sela college of Software developing in a special program for released combat fighters form the IDF . 🧑🏾‍🏫📖
-Currently learning development methodologies in C# , .NET framework, WPF MVVM ,Asp.Net MVC, MSSQL , and Azure az-204.👨🏾‍💻
+Currently learning development methodologies in C# ,  and .NET framework
+### Familiar with :
+- C#
+- .NET framework
+- WPF and UWP MVVM
+- Asp.Net MVC
+- MSSQL 
+- Azure az-204.👨🏾‍💻
+
 I am highly motivated to learn and explore new fields and looking forward to learn Computer science and cognitive science in the the near future. 🧑🏾‍🎓
 
 
