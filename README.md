@@ -4,10 +4,10 @@ Currently learning development methodologies and software architecture in C# ,  
 ### Familiar with :
 - C# <image src="002-c-sharp.png">
 - OOP and SOLID principels <image src="003-programming.png">
-- .NET framework <image src="">
-- WPF and UWP MVVM <image src="001-azure.png">
-- Asp.Net MVC <image src="001-azure.png">
-- MSSQL <image src="001-azure.png">
+- .NET framework <image src="microsoft-lumia-paperback-framework-icon-purple-blue.png" Height="32" >
+- WPF and UWP MVVM <image src="Microsoft_WPF.png">
+- Asp.Net MVC <image src="APN_NET_MVC.png">
+- MSSQL <image src="005-sql-server.png">
 - Azure az-204. <image src="001-azure.png">
 
 I am highly motivated to learn and explore new fields and looking forward to learn Computer science and cognitive science in the the near future. 🧑🏾‍🎓
