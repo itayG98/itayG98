@@ -1,19 +1,24 @@
 ## Who am I?
 My name is Itay and i'm a Student at Sela college of Software developing in a released IDF combat fighters course . 🧑🏾‍🏫📖
 Currently learning development methodologies and software architecture in C# ,  and .NET framework
-### Familiar with :
+## Familiar with :
 
-<image src="file_type_html_icon_130541.png"> HTML </li> <br>
-<image src="file_type_css_icon_130661.png"> CSS </li> <br>
-<image src="file_type_js_official_icon_130509.png"> JavaScript </li> <br>
- <image src="002-c-sharp.png"> C# </li> <br>
- <image src="sql_icon.png"> SQL </li> <br>
- <image src="003-programming.png"> OOP and SOLID principels<br>
- <image src="net-logo-13E6F1F153-seeklogo.com.png" > .NET framework <br>
- <image src="wpf_button_icon_151942.png"> WPF and UWP MVVM<br>
- <image src="APN_NET_MVC.png"> Asp.Net MVC <br>
- <image src="png-clipart-microsoft-sql-server-computer-servers-database-microsoft-microsoft-sql-server-server-computer.png"> MSSQL<br>
- <image src="001-azure.png"> Azure az-204 <br>
+#### Client :
+<image src="file_type_html_icon_130541.png"> HTML <br>
+<image src="file_type_css_icon_130661.png"> CSS <br> 
+<image src="file_type_js_official_icon_130509.png"> JavaScript <br>
+<image src="wpf_button_icon_151942.png"> WPF and UWP MVVM <br>
+<image src="APN_NET_MVC.png"> Asp.Net MVC <br>
+
+### Server 
+<image src="002-c-sharp.png"> C# <br>
+<image src="sql_icon.png"> SQL <br>
+<image src="net-logo-13E6F1F153-seeklogo.com.png" > .NET framework <br>
+<image src="png-clipart-microsoft-sql-server-computer-servers-database-microsoft-microsoft-sql-server-server-computer.png"> MSSQL <br>
+
+### Cloud
+<image src="001-azure.png"> Azure az-204 <br>
+
 <br>
 I am highly motivated to learn and explore new fields and looking forward to learn Computer science and cognitive science in the the near future. 🧑🏾‍🎓
 
