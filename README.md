@@ -25,7 +25,7 @@ My plan for the future is to specialize in software development and business wor
 <br>
 
 ### 📫 How to reach me:
-<a href="https://www.linkedin.com/in/itay-getahun/">My Linkedn</a>
+<a href="https://www.linkedin.com/in/itay-getahun/">My linkedin</a>
 <br>
 You can also messege me by mail : <a href="itai.g98@gmail.com">itai.g98@gmail.com</a>
 
