@@ -4,7 +4,7 @@ Currently learning development methodologies and software architecture in C# ,  
 ### Familiar with :
 - C# <image src="002-c-sharp.png">
 - OOP and SOLID principels <image src="003-programming.png">
-- .NET framework <image src="microsoft-lumia-paperback-framework-icon-purple-blue.png">
+- .NET framework <image src="">
 - WPF and UWP MVVM <image src="001-azure.png">
 - Asp.Net MVC <image src="001-azure.png">
 - MSSQL <image src="001-azure.png">
