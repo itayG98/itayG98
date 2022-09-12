@@ -3,7 +3,7 @@ My name is Itay and i'm a Student at Sela college of Software developing in a re
 Currently learning development methodologies and software architecture in C# ,  and .NET framework
 ### Familiar with :
 <ul>
- <li syle="list-style-image:url('https://raw.githubusercontent.com/itayG98/itayG98/main/002-c-sharp.png');">C# </li>
+ <li><image src="002-c-sharp.png"> C# </li>
  <li><image src="003-programming.png">  OOP and SOLID principels </li>
  <li><image src="net-logo-13E6F1F153-seeklogo.com.png" >  .NET framework </li>
  <li><image src="Microsoft_WPF.png">  WPF and UWP MVVM</li>
