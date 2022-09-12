@@ -1,6 +1,7 @@
 ## Who am I?
 My name is Itay and i'm a Student at Sela college of Software developing in a released IDF combat fighters course . 🧑🏾‍🏫📖
-Currently learning development methodologies and software architecture in C# ,  and .NET framework
+Currently learning development methodologies and software architecture in C# ,  and .NET framework.
+My plan for the future is to specialize in software development and business world and also looking forward to do B.A. in Computer science and cognitive science.
 ## Familiar with :
 
 <div>
@@ -22,8 +23,6 @@ Currently learning development methodologies and software architecture in C# ,  
 
 </div>
 <br>
-I am highly motivated to learn and explore new fields and looking forward to learn Computer science and cognitive science in the the near future. 🧑🏾‍🎓
-
 
 ### 📫 How to reach me:
 <a href="https://www.linkedin.com/in/itay-getahun/">My Linkedn</a>
