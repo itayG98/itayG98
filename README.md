@@ -2,13 +2,13 @@
 My name is Itay and i'm a Student at Sela college of Software developing in a released IDF combat fighters course . 🧑🏾‍🏫📖
 Currently learning development methodologies and software architecture in C# ,  and .NET framework
 ### Familiar with :
-- C#
-- OOP and SOLID principels
-- .NET framework
-- WPF and UWP MVVM
-- Asp.Net MVC
-- MSSQL 
-- Azure az-204.👨🏾‍💻
+- C# <image src="002-c-sharp.png">
+- OOP and SOLID principels <image src="003-programming.png">
+- .NET framework <image src="microsoft-lumia-paperback-framework-icon-purple-blue.png">
+- WPF and UWP MVVM <image src="001-azure.png">
+- Asp.Net MVC <image src="001-azure.png">
+- MSSQL <image src="001-azure.png">
+- Azure az-204. <image src="001-azure.png">
 
 I am highly motivated to learn and explore new fields and looking forward to learn Computer science and cognitive science in the the near future. 🧑🏾‍🎓
 
