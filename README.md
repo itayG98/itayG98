@@ -32,8 +32,8 @@ You can also messege me by mail : <a href="itai.g98@gmail.com">itai.g98@gmail.co
 
 <p align="center">
 <a href="https://github.com/itayG98">
-  <img height="180em" width="410em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=itayG98&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="410em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=itayG98&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" width="410em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=itayG98&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="410em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=itayG98&layout=compact&langs_count=8&theme=buefy"/>
 </a>
 </p>
 <div>
