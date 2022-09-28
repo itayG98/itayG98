@@ -29,10 +29,6 @@ My plan for the future is to specialize in software development and business wor
 <br>
 You can also messege me by mail : <a href="itai.g98@gmail.com">itai.g98@gmail.com</a>
 
-<div align="center">
-<p>Click on the photo to Get to my portfolio page</p>
-<a href="https://itayg98.github.io/Itay-Getahun-Portfolio/">
-
 
 <p align="center">
 <a href="https://github.com/itayG98">
@@ -41,6 +37,9 @@ You can also messege me by mail : <a href="itai.g98@gmail.com">itai.g98@gmail.co
 </a>
 </p>
 <div>
+<div align="center">
+<p>Click on the photo to Get to my portfolio page</p>
+<a href="https://itayg98.github.io/Itay-Getahun-Portfolio/">
          <img alt="Prtfolio" src="https://user-images.githubusercontent.com/91791115/189167955-131f4728-7142-43ba-930e-f2b652c032dd.jpg"
          width="650">
       </a>
