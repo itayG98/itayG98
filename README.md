@@ -32,6 +32,15 @@ You can also messege me by mail : <a href="itai.g98@gmail.com">itai.g98@gmail.co
 <div align="center">
 <p>Click on the photo to Get to my portfolio page</p>
 <a href="https://itayg98.github.io/Itay-Getahun-Portfolio/">
+
+
+<p align="center">
+<a href="https://github.com/itayG98">
+  <img height="180em" width="410em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=itayG98&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="410em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=itayG98&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+<div>
          <img alt="Prtfolio" src="https://user-images.githubusercontent.com/91791115/189167955-131f4728-7142-43ba-930e-f2b652c032dd.jpg"
          width="650">
       </a>
