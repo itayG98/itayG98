@@ -18,13 +18,13 @@ I am looking forward to do B.A. in Computer science and cognitive science.
 <image src="sql_icon.png"> SQL <br>
 <image src="net-logo-13E6F1F153-seeklogo.com.png" > .NET framework || NetCore <br>
 <image src="png-clipart-microsoft-sql-server-computer-servers-database-microsoft-microsoft-sql-server-server-computer.png"> MSSQL <br>
-
+<hr>
 <h3>Cloud</h3>
 <image src="001-azure.png"> Azure az-204 <br>
 
 </div>
 <br>
-
+<hr>
 ### 📫 How to reach me:
 <a href="https://www.linkedin.com/in/itay-getahun/">My linkedin</a>
 <br>
