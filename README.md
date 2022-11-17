@@ -25,7 +25,7 @@ I am looking forward to do B.A. in Computer science and cognitive science.
 </div>
 <br>
 <hr>
-### 📫 How to reach me:
+ 📫 How to reach me:
 <a href="https://www.linkedin.com/in/itay-getahun/">My linkedin</a>
 <br>
 You can also messege me by mail : <a href="itai.g98@gmail.com">itai.g98@gmail.com</a>
