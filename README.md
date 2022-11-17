@@ -16,7 +16,7 @@ I am looking forward to do B.A. in Computer science and cognitive science.
 <h3>Server </h3>
 <image src="002-c-sharp.png"> C# <br>
 <image src="sql_icon.png"> SQL <br>
-<image src="net-logo-13E6F1F153-seeklogo.com.png" > .NET framework <br>
+<image src="net-logo-13E6F1F153-seeklogo.com.png" > .NET framework || NetCore <br>
 <image src="png-clipart-microsoft-sql-server-computer-servers-database-microsoft-microsoft-sql-server-server-computer.png"> MSSQL <br>
 
 <h3>Cloud</h3>
