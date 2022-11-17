@@ -12,7 +12,7 @@ I am looking forward to do B.A. in Computer science and cognitive science.
 <image src="file_type_js_official_icon_130509.png"> JavaScript <br>
 <image src="wpf_button_icon_151942.png"> WPF and UWP MVVM <br>
 <image src="APN_NET_MVC.png"> Asp.Net MVC <br>
-
+<hr>
 <h3>Server </h3>
 <image src="002-c-sharp.png"> C# <br>
 <image src="sql_icon.png"> SQL <br>
