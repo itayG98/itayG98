@@ -20,7 +20,7 @@ I am looking forward to do B.A. in Computer science and cognitive science.
 
 <h3>Software</h3>
 <image src="wpf_button_icon_151942.png"> WPF and UWP MVVM <br>
- <a href="https://github.com/Caliburn-Micro/Caliburn.Micro"> <image width="30" src="CaliburnMicro.png"> Caliburn Micro</a> (for XML Technologies) <br>
+ <a href="https://github.com/Caliburn-Micro/Caliburn.Micro"> <image width="30" src="CaliburnMicro.png"> Caliburn Micro</a> (for XAML Technologies) <br>
 
 <h3>Cloud</h3>
 <image src="001-azure.png"> Azure az-204 <br>
