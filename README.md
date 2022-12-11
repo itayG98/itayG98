@@ -10,6 +10,7 @@ I am looking forward to do B.A. in Computer science and cognitive science.
 <image src="file_type_html_icon_130541.png"> HTML <br>
 <image src="file_type_css_icon_130661.png"> CSS <br> 
 <image src="file_type_js_official_icon_130509.png"> JavaScript <br>
+<image src="typescript.png"> TypeScript <br>
 <image width="33" src="angular.png"> Angular <br>
 
 <h3>Server </h3>
