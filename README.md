@@ -10,7 +10,7 @@ I am looking forward to do B.A. in Computer science and cognitive science.
 <image src="file_type_html_icon_130541.png"> HTML <br>
 <image src="file_type_css_icon_130661.png"> CSS <br> 
 <image src="file_type_js_official_icon_130509.png"> JavaScript <br>
-<image width="30" src="angular.png"> Angular <br>
+<image width="33" src="angular.png"> Angular <br>
 
 <h3>Server </h3>
 <image src="002-c-sharp.png"> C# <br>
@@ -21,7 +21,7 @@ I am looking forward to do B.A. in Computer science and cognitive science.
 
 <h3>Software</h3>
 <image src="wpf_button_icon_151942.png"> WPF and UWP MVVM <br>
- <a href="https://github.com/Caliburn-Micro/Caliburn.Micro"> <image width="30" src="CaliburnMicro.png"> Caliburn Micro</a> (for XAML Technologies) <br>
+ <a href="https://github.com/Caliburn-Micro/Caliburn.Micro"> <image width="33" src="CaliburnMicro.png"> Caliburn Micro</a> (for XAML Technologies) <br>
 
 <h3>Cloud</h3>
 <image src="001-azure.png"> Azure az-204 <br>
