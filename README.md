@@ -25,6 +25,7 @@ I am looking forward to do B.A. in Computer science and cognitive science.
  <a href="https://github.com/Caliburn-Micro/Caliburn.Micro"> <image width="33" src="CaliburnMicro.png"> Caliburn Micro</a> (for XAML Technologies) <br>
 
 <h3>Cloud</h3>
+<image width="33" src="Docker.png"> Docker fundomentals <br>
 <image src="001-azure.png"> Azure az-204 <br>
 
 </div>
