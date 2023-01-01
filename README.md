@@ -10,8 +10,8 @@ I am looking forward to do B.A. in Computer science and cognitive science.
 <image width="35" src="Icons/HTML.png"> HTML <br>
 <image width="35" src="Icons/CSS.png"> CSS <br> 
 <image width="35" src="Icons/JS.jpg"> JavaScript <br>
-<image width="35" src="Icons\Typescript.svg""> TypeScript <br>
-<image width="35" width="33" src="Icons\ANGULAR.png"> Angular <br>
+<image width="35" src="Icons/Typescript.png"> TypeScript <br>
+<image width="35" width="33" src="Icons/ANGULAR.png"> Angular <br>
 
 <h3>Server </h3>
 <image width="35" src="Icons/csharp.png"> C# <br>
