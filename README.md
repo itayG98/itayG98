@@ -14,7 +14,7 @@ I am looking forward to do B.A. in Computer science and cognitive science.
 <image width="35" width="33" src="Icons/ANGULAR.png"> Angular <br>
 
 <h3>Server </h3>
-<image width="35" src="Icons/csharp.png"> C# <br>
+<image width="40" src="Icons/csharp.png"> C# <br>
 <image width="35" src="Icons/ASP.NET.avif"> Asp.Net MVC <br>
 <image width="35" src="Icons/SQL.png"> SQL <br>
 <image width="35" src="Icons/NET.png" > .NET framework || NetCore <br>
