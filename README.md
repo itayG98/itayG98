@@ -1,5 +1,5 @@
 ## Who am I?
-Software development graduate from Sela College with a strong foundation in C#, ASP.NET, and Angular. Currently teaching Python to youth group and seeking for a challenging software development position where I can utilize my skills and continue to grow and develop as a professional.
+Software development graduate from Sela College with a strong foundation in C#, ASP.NET, and Angular. Currently teaching Python AI and data science 101 to youth group and seeking for a challenging software development position where I can utilize my skills and continue to grow and develop as a professional.
 ## Familiar with :
 
 <div>
