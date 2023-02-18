@@ -12,8 +12,9 @@ Software development graduate from Sela College with a strong foundation in C#, 
 
 <h3>Server </h3>
 <image width="35" src="Icons/csharp.png"> C# <br>
-<image width="35" src="Icons/Python_logo.jpg"> Python <br>
 <image width="35" src="Icons/ASP.NET.avif"> Asp.Net MVC <br>
+<image width="35" src="Icons/Python_logo.jpg"> Python <br>
+<image width="35" src="Icons/FastApi_logo.png"> Fast Api <br>
 
 <h3>Data </h3>
 <image width="35" src="Icons/MSSQL.png"> MSSQL <br>
