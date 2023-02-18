@@ -18,7 +18,7 @@ Software development graduate from Sela College with a strong foundation in C#, 
 
 <h3>Data </h3>
 <image width="35" src="Icons/MSSQL.png"> MSSQL <br>
-<image width="35" src="Icons/mongo_logo.jpg"> MobgoDB <br>
+<image width="35" src="Icons/mongo_logo.jpg"> MongoDB <br>
 <image width="35" src="Icons/Pandas_logo.png"> Pandas <br>
 <image width="35" src="Icons/matplotlib_logo.png"> Matplotlib <br>
 
