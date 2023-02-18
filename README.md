@@ -29,7 +29,7 @@ Software development graduate from Sela College with a strong foundation in C#, 
 
 <h3>Cloud</h3>
 <image width="35" src="Icons/DOCKER.webp"> Docker fundomentals <br>
-<image width="35" src="Icons/Microsoft_Azure_Logo.png"> Azure az-204 <br>
+<image width="35" src="Icons/Microsoft_Azure_Logo.png"> Azure <br>
 
 </div>
 <br>
