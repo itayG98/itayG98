@@ -50,7 +50,7 @@ You can also messege me by mail : <a href="itai.g98@gmail.com">itai.g98@gmail.co
 <div align="center">
 <p>Click on the photo to Get to my portfolio page</p>
 <a href="https://itayg98.github.io/Itay-Getahun-Portfolio/](https://itayg-portfolio.web.app">
-         <img alt="Prtfolio" src="https://raw.githubusercontent.com/itayG98/portfolio/master/Images/screenshot_horiz.png"
+         <img alt="Prtfolio" src="itayG98/portfolio/master/Images/screenshot_horiz.png"
          width="650">
       </a>
 
