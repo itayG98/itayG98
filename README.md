@@ -1,6 +1,14 @@
 ## Who am I?
 Software development graduate from Sela College with a strong foundation in C#, ASP.NET, and Angular. Currently teaching Python AI and data science 101 to youth group and seeking for a challenging software development position where I can utilize my skills and continue to grow and develop as a professional.
-my website : https://itayg-portfolio.web.app/
+ my website : https://itayg-portfolio.web.app
+<div align="center">
+<p>Click on the photo to Get to my portfolio page</p>
+<a href="https://itayg-portfolio.web.app">
+         <img alt="Prtfolio" src="https://raw.githubusercontent.com/itayG98/itayG98/main/screenshot_horiz.png"
+         width="650">
+      </a>
+</div>
+
 ## Familiar with :
 
 <div>
@@ -47,12 +55,5 @@ You can also messege me by mail : <a href="itai.g98@gmail.com">itai.g98@gmail.co
   <img height="180em" width="410em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=itayG98&layout=compact&langs_count=8&theme=buefy" alt="Main technologies"/>
 </a>
 </p>
-<div>
-<div align="center">
-<p>Click on the photo to Get to my portfolio page</p>
-<a href="https://itayg-portfolio.web.app">
-         <img alt="Prtfolio" src="https://raw.githubusercontent.com/itayG98/portfolio/master/Images/screenshot_horiz.png"
-         width="650">
-      </a>
 
-</div>
+
