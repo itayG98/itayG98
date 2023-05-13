@@ -3,7 +3,7 @@ Software development graduate from Sela College with a strong foundation in C#, 
  my website : <a href="https://itay-getahun.com">itay-getahun.com<a/>
 <div align="center">
 <p>Click on the photo to Get to my portfolio page</p>
-<a href="[https://itayg-portfolio.web.app](https://itay-getahun.com)">
+<a href="https://itay-getahun.com">
          <img alt="Prtfolio" src="https://raw.githubusercontent.com/itayG98/itayG98/main/screenshot_horiz.png"
          width="650">
       </a>
