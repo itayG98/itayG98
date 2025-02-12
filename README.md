@@ -1,63 +1,29 @@
-## Who am I?
-Software development graduate from Sela College with a strong foundation in C#, ASP.NET, and Angular. Currently teaching Python AI and data science 101 to youth group and seeking for a challenging software development position where I can utilize my skills and continue to grow and develop as a professional.
- my website : <a href="https://itay-getahun.com">itay-getahun.com<a/>
-<div align="center">
-<p>Click on the photo to Get to my portfolio page</p>
-<a href="https://itay-getahun.com">
-         <img alt="Prtfolio" src="https://raw.githubusercontent.com/itayG98/itayG98/main/screenshot_horiz.png"
-         width="650">
-      </a>
-</div>
+# 👋 Hi, I'm Itay Getahun
 
-## Currently working on?
-This web app, developed with FastAPI, Scikit-learn, and KNN, predicts and suggests Israeli person names. FastAPI provides a fast web framework for APIs, while Scikit-learn offers powerful machine learning tools. KNN, a simple yet effective algorithm, is used for prediction. By inputting person characteristics, the app recommends Israeli names based on nearest neighbors in the trained model. Overall, it combines these technologies to deliver an efficient and user-friendly Israeli name prediction application.
-https://github.com/itayG98/Names
+## 🚀 About Me  
+I'm a **Full-Stack Developer** with expertise in **Node.js, React, and Material-UI**. I specialize in building modern, scalable web applications with clean and efficient code. Passionate about **learning new technologies**, optimizing performance, and crafting seamless user experiences.  
 
-## Familiar with :
+---
 
-<div>
-<h3> Client : </h3>
-<image width="35" src="Icons/HTML.png"> HTML <br>
-<image width="35" src="Icons/CSS.png"> CSS <br> 
-<image width="35" src="Icons/JS.jpg"> JavaScript <br>
-<image width="35" src="Icons/Typescript.png"> TypeScript <br>
-<image width="35" width="33" src="Icons/ANGULAR.png"> Angular <br>
+## 🛠️ Tech Stack  
 
-<h3>Server </h3>
-<image width="35" src="Icons/csharp.png"> C# <br>
-<image width="35" src="Icons/ASP.NET.avif"> Asp.Net MVC <br>
-<image width="35" src="Icons/Python_logo.jpg"> Python <br>
-<image width="35" src="Icons/FastApi_logo.png"> Fast Api <br>
+### 🖥️ Frontend  
+- <img src="Icons/react.png" width="35"> **React.js**  
+- <img src="Icons/material-ui.png" width="35"> **Material-UI**  
+- <img src="Icons/Typescript.png" width="35"> **TypeScript**  
+- <img src="Icons/HTML.png" width="35"> **HTML & CSS**  
 
-<h3>Data </h3>
-<image width="35" src="Icons/MSSQL.png"> MSSQL <br>
-<image width="35" src="Icons/mongo_logo.jpg"> MongoDB <br>
-<image width="35" src="Icons/Pandas_logo.png"> Pandas <br>
-<image width="35" src="Icons/matplotlib_logo.png"> Matplotlib <br>
+### ⚙️ Backend  
+- <img src="Icons/Node.js.png" width="35"> **Node.js & Express.js**  
 
-<h3>Software</h3>
-<image width="35" src="Icons/WPF.jpeg"> WPF and UWP MVVM <br>
- <a href="https://github.com/Caliburn-Micro/Caliburn.Micro">
- <image width="35" src="Icons/CALIBURN-MICRO.png"> Caliburn Micro</a> (for XAML Technologies) <br>
+### ☁️ DevOps & Cloud  
+- <img src="Icons/DOCKER.webp" width="35"> **Docker**  
 
-<h3>Cloud</h3>
-<image width="35" src="Icons/DOCKER.webp"> Docker fundomentals <br>
-<image width="35" src="Icons/azure_logo.png"> Azure <br>
+---
 
-</div>
-<br>
-<hr>
- 📫 How to reach me:
-<a href="https://www.linkedin.com/in/itay-getahun/">My linkedin</a>
-<br>
-You can also messege me by mail : <a href="itai.g98@gmail.com">itai.g98@gmail.com</a>
+## 📫 Connect With Me  
+🔗 [LinkedIn](https://www.linkedin.com/in/itay-getahun/)  
 
+---
 
-<p align="center">
-<a href="https://github.com/itayG98">
-  <img height="180em" width="410em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=itayG98&show_icons=true&theme=buefy&include_all_commits=true&count_private=true" alt="github- stats"/>
-  <img height="180em" width="410em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=itayG98&layout=compact&langs_count=8&theme=buefy" alt="Main technologies"/>
-</a>
-</p>
-
-
+🚀 **Open to new opportunities and collaborations!**
