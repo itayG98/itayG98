@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Itay Getahun
 
 ## 🚀 About Me  
-I'm a **Full-Stack Developer** with expertise in **Node.js, React, and Material-UI**. I specialize in building modern, scalable web applications with clean and efficient code. Passionate about **learning new technologies**, optimizing performance, and crafting seamless user experiences.  
+I'm a **Frontend Developer** and a **Computer Science & Cognitive Science** student at the Open University, specializing in React, Material-UI, and TypeScript. I focus on building scalable, user-friendly web applications while continuously improving my expertise in software engineering.
 
 ---
 
